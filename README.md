@@ -1,4 +1,4 @@
-## Computational Imaging & Perception Lab
+## Choi Eunsoo · GitHub Profile
 
 <!--
 **es1206/es1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
